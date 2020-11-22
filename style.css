@@ -1,0 +1,52 @@
+.faculties {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding: 5%;
+}
+
+.faculties .article .artibox p {
+    color: #5ba939;
+}
+
+.artibox h4 {
+    margin-top: 50px;
+
+}
+
+.artibox {
+    position: relative;
+}
+
+.artibox img {
+    width: 100%;
+}
+
+.faculties .article .artibox .icon {
+    width: 80%;
+    height: 50px;
+    background: #5ba939;
+    position: absolute;
+    bottom: 55px;
+    left: 35px;
+    margin-bottom: 35px;
+}
+
+.ico {
+    width: 100%;
+    margin-top: 5px;
+
+}
+
+.faculties .article .artibox .icon .fab {
+    color: #fff;
+    padding: 5px;
+    border: 1px solid #fff;
+    margin: 5px;
+    border-radius: 3px;
+}
+
+.faculties .article .artibox .icon .fab:hover {
+    color: #5ba939;
+    background: #fff;
+}
